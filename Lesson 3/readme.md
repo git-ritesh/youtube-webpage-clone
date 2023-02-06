@@ -1,4 +1,4 @@
-# Hovers, Transitions,Shadows
+# Hovers, Transitions, Shadows
 
 In this Lesson we learned about :
   <ul>
