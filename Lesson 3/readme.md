@@ -11,6 +11,6 @@ In this Lesson we learned about :
       <ul>
         <li>rgba value</li>
       </ul>
-    <li>opacity</li>
     <li>transition</li>
+      <ul><li>opacity</li></ul>
   </ul>
