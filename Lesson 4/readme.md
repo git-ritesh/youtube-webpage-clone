@@ -6,9 +6,15 @@ In this Lesson we learned about :
     - padding-bottom
     - padding-left
     - padding-right
-2. Use of chrome DevTools for knowing exact property of an element.
+2. Margin Property :
+   - margin-top
+   - margin-right
+   - margin-bottom
+   - margin-left
+   
+3. Use of chrome DevTools for knowing exact property of an element.
 
-3. Exercises :
+Exercises :
 
 <img src = "Lesson 4 Exercises.png">
 
