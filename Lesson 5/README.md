@@ -29,4 +29,4 @@ Note : we could give class to the other text elements but these come with the de
 
 ![Exercises](Exercise.png"Exercise")
 
-![Challenge Exercises](/HTML-CSS_Practice/blob/master/Lesson%205/challenge-exercise.png"Challenge Exercise")
+![Challenge Exercises](https://github.com/git-ritesh/HTML-CSS_Practice/blob/master/Lesson%205/challenge-exercise.png"Challenge Exercise")
