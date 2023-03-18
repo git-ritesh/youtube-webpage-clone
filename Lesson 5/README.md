@@ -28,3 +28,4 @@ Note : we could give class to the other text elements but these come with the de
 # Exercises
 
 <img src ="Exercise.png" alt = "Exercises image"/>
+<img src ="challenge-exercise.png" alt = "Challenge Exercises image"/>
