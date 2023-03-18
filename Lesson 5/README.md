@@ -27,5 +27,5 @@ Note : we could give class to the other text elements but these come with the de
 
 # Exercises
 
-[Exercises](Exercise.png)
-[Challenge Exercises](challenge-exercise.png)
+![Exercises](Exercise.png"Exercise")
+![Challenge Exercises](challenge-exercise.png"Challenge Exercise")
