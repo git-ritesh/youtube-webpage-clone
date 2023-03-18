@@ -1,4 +1,4 @@
-#LESSON 5 TEXT STYLES
+# LESSON 5 TEXT STYLES
 
 In this lesson we learned about :
 
@@ -27,5 +27,5 @@ Note : we could give class to the other text elements but these come with the de
 
 # Exercises
 
-Exercise.png
-challenge-exercise.png
+[Exercises](Exercise.png)
+[Challenge Exercises](challenge-exercise.png)
