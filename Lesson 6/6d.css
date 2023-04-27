@@ -1,0 +1,16 @@
+h1, p, span {
+  font-family: 'Montserrat', Roboto;
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+}
+
+p , span {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 40px;
+}
