@@ -1,0 +1,37 @@
+.getstarted {
+  margin-top: 4px;
+  margin-left: 4px;
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  height: 32px;
+  width: 105px;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+
+}
+.getstarted:hover {
+  background-color: rgb(103, 68, 154);
+}
+
+.download {
+  margin-top: 4px;
+  margin-left: 4px;
+  background-color:white;
+  color: rgb(108, 117, 125);
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(108, 117, 125);
+  height: 34px;
+  width: 105px;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+.download:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
