@@ -1,0 +1,14 @@
+ /* Heading Text */
+ .para-style {
+  width: 370px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 30px;
+}
+/* span example  */
+.sales-txt {
+  font-weight: 100;
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(228, 31, 0);
+}
