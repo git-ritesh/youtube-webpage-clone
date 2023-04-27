@@ -17,3 +17,5 @@ This is the tutorial I am following for practising.
 4th Exercise => Learnt about CSS Box Model.
 
 5th Exercise => Learnt about text styling, text elements like span, strong, etc.
+
+6th Exercise => Learnt about the Structure of HTML, it's features & Benefits, Seperated all the styles from the HTML from previous Lessons and placed them into an External Stylesheet CSS file.
