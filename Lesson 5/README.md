@@ -1,6 +1,6 @@
 # LESSON 5 TEXT STYLES
 
-In this lesson we learned about :
+In this lesson we learnt about :
 
 1. fonts property :
    - font-family - used to specify which font you want to keep.
