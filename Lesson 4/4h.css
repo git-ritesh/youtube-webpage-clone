@@ -1,0 +1,19 @@
+.back {
+  margin: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  cursor: pointer;
+}
+a{
+  margin: 5px;
+}
+.next {
+  margin: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  cursor: pointer;      
+}
