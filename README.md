@@ -14,7 +14,7 @@ This is the tutorial I am following for practising.
 
 3rd Exercise => Used Transition, Hover & Shadow effect on Buttons.
 
-4th Exercise => Learnt about CSS Box Model.
+[4th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/Lesson%204) => Learnt about CSS Box Model.
 
 [5th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/Lesson%205) => Learnt about text styling, text elements like span, strong, etc.
 
