@@ -10,7 +10,7 @@ This is the tutorial I am following for practising.
 
 1st Exercise => Anchor tag & Button tag.
 
-2nd Exercise => Very basic styling to Buttons.
+[2nd Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/Lesson%202) => Very basic styling to Buttons.
 
 [3rd Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/Lesson%203) => Used Transition, Hover & Shadow effect on Buttons.
 
