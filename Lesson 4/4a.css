@@ -1,0 +1,13 @@
+.uber-btn {
+  color: white;
+  background-color: black;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.uber-btn:hover {
+  opacity: 0.8;
+}
