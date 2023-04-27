@@ -8,7 +8,7 @@ This is the tutorial I am following for practising.
 
 # Details
 
-1st Exercise => Anchor tag & Button tag.
+[1st Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/Lesson%201) => Anchor tag & Button tag.
 
 [2nd Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/Lesson%202) => Very basic styling to Buttons.
 
