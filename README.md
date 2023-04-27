@@ -12,7 +12,7 @@ This is the tutorial I am following for practising.
 
 2nd Exercise => Very basic styling to Buttons.
 
-3rd Exercise => Used Transition, Hover & Shadow effect on Buttons.
+[3rd Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/Lesson%203) => Used Transition, Hover & Shadow effect on Buttons.
 
 [4th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/Lesson%204) => Learnt about CSS Box Model.
 
