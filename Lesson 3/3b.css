@@ -1,0 +1,12 @@
+.cart-btn {
+  background-color: #FED114;
+  border: none;
+  height: 36px;
+  width: 180px;
+  border-radius: 18px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.cart-btn:hover {
+  background-color: #F6C202;
+}
