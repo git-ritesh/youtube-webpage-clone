@@ -4,7 +4,7 @@ I'm gonna add some of my basic practices with HTML & CSS and in the end I'll be 
 
 This is the tutorial I am following for practising. Click on the Image to Open the Tutorial!
 
-[![HTML_CSS_PRACTICE](download.jpg)](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+[![HTML_CSS_PRACTICE](img/download.jpg)](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
 # Details
 
