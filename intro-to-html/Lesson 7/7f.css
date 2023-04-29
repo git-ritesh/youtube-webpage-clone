@@ -1,0 +1,21 @@
+.email-textbox {
+  width: 390px;
+  padding: 5px 0;
+  border: 2px solid rgb(81, 80, 80);
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+p {
+  color: #5f5f5d;
+  margin: 4px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  padding: 15px 160px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  background-color: #3162b6;
+}
