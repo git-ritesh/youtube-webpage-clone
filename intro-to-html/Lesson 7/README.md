@@ -70,3 +70,5 @@ In this lesson we learn about :
 # Exercises :
 
   ![Lesson 7 Exercises Photo](img/Leson%207%20Exercises.png)
+
+  ![Lesson 7 Exercises Photo](img/Exercise%207%20remaining%20probs.png)
