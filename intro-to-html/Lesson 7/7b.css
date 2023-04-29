@@ -1,0 +1,7 @@
+.cat-img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  /* No need to center the position as default position of the object-fit:cover is center */
+  /* object-position: center; */
+}
