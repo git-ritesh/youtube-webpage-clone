@@ -26,7 +26,7 @@ In this lesson we learn about :
 
   - `object-fit` : determines what happens if the size we provide exceeds the image dimensions.
 
-  - object-fit : cover : this tells the image to cover the area we had set but it also gonna keep its shape.
+  - `object-fit : cover;` - this tells the image to cover the area we had set but it also gonna keep its shape.
 
   - But, the area might not be big enough to show the whole image which may or may not be ok depending on what we wanna do. 
 
