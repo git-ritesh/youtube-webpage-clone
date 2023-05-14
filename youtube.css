@@ -14,9 +14,19 @@
   /* Default : */
   /* object-position: center;   */
   /* border: 2px solid red; */
+  display: block;
 }
 
-.search-bar {
-  font-size: 20px;
-  margin-left: 12px;
+.video-title {
+  width: 300px;
 }
+
+.video-author {
+  display: inline-block;
+}
+
+.video-stats {
+  display: inline-block;
+}
+
+
