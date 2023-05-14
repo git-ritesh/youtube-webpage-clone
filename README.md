@@ -21,3 +21,5 @@ This is the tutorial I am following for practising. Click on the Image to Open t
 [6th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%206) => Learnt about the Structure of HTML, it's features & Benefits, Seperated all the styles from the HTML from previous Lessons and placed them into an External Stylesheet CSS file.
 
 [7th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%207) => Learnt about the Images and its styling. we also learnt about Search Box and its Properties.
+
+[8th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%208) => Learnt about the various CSS display Properties.
