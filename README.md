@@ -22,4 +22,4 @@ This is the tutorial I am following for practising. Click on the Image to Open t
 
 [7th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%207) => Learnt about the Images and its styling. we also learnt about Search Box and its Properties.
 
-[8th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%208) => Learnt about the various CSS display Properties.
+[8th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%208) => Learnt about the various types of HTML elements according to display properties like _block_, _inline-block_, _inline_.
