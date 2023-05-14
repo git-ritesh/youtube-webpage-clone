@@ -39,3 +39,9 @@ Even though an element is a `block` element or `inline-block` element by default
 ### Note : 
 
 If we have two sets of CSS Styles that are the same we can use a different syntax by using a `,`_comma_ to target multiple classes or we can say things.
+
+# Exercises :
+
+![Lesson 8 Exercises image](img/lesson8-exercises.png)
+
+![Lesson 8 Challenge Exercise image](img/lesson8-challenge-exercises.png)
