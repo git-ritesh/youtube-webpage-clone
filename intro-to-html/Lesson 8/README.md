@@ -24,4 +24,18 @@ In HTML, There are three types of elements :
 
 3. **inline element** : inline elements are basically just text elements.They appear within a line of text.
 
-    we have already used an element `<strong>`This element appears within a line of text
+    we have already used an element `<strong>`This element appears within a line of text. So This element makes a part of the text **bold** 
+
+So, Those are the three basic type of HTML elements. Now the most interesting of these three are the `block` element and the `inline-block` element because they determine how the elements are displayed on the page, whether beside each other or above & below.
+
+In addition we can use a CSS property called `display` to easily switch between `block` and `inline-block` elements.
+
+Even though an element is a `block` element or `inline-block` element by default. we can change it by using a `display` property.
+
+- `display : block;` - to switch an `inline-block` element into a `block` element.
+
+- `display : inline-block` - to switch an `block` element into  `inline-block` element.
+
+### Note : 
+
+If we have two sets of CSS Styles that are the same we can use a different syntax by using a `,`_comma_ to target multiple classes or we can say things.
