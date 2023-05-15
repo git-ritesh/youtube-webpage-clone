@@ -1,0 +1,31 @@
+.name {
+  width: 200px;
+  font-size: 20px;
+  padding: 8px;
+  border: 1px solid grey;
+  border-radius: 6px;
+}
+
+.email {
+  display: block;
+  width: 420px;
+}
+
+.name, .email {
+  font-size: 20px;
+  padding: 8px;
+  border: 1px solid grey;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 20px;
+  width: 438px;
+  padding: 1em;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  background-color: rgba(8, 125, 235, 0.999);
+  color: white;
+}
