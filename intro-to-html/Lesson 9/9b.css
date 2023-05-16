@@ -1,0 +1,7 @@
+.circle {
+  width: 300px;
+  height: 300px;
+  background-color: green;
+  /* circles the div */
+  border-radius: 150px;
+}
