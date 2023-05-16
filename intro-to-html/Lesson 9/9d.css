@@ -1,0 +1,17 @@
+.container {
+  width: 400px;
+  background-color: #202020;
+  padding: 20px;
+}
+
+p {
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.heading {
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
