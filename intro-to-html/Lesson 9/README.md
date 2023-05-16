@@ -17,7 +17,7 @@ for example if you see the _HTML code of Twitter.com_ you'll see lots and lots o
 
 - The key feature of the `div` is that it can contain any other element inside.
 
-- We can put _paragraphs, mages & any other elements_ inside `div`** and other divs
+- We can put _paragraphs, mages & any other elements_ inside `div` and other divs
 
 - **divs are meant to be containers.**
 
