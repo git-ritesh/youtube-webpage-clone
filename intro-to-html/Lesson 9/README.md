@@ -33,3 +33,11 @@ for example if you see the _HTML code of Twitter.com_ you'll see lots and lots o
 Sol. As we know that a paragaraph is a block type element so it takes up the entire line in the page but if we put the paragraph into the div whose width is 300px, the paragraph will take the entire line but only in the div i.e. up to 300px in the whole page.
 
 Note : _So, the way that block element actually work is that they take up the entire line in their container rather than the whole page._ 
+
+# Exercises :
+
+![Lesson 9 Exercise Image](img/Lesson-9%20Exercises.png)
+
+![Lesson-9 Challenge Exercise Image](img/Lesson-9%20Challenge%20Exercise.png)
+
+![Lesson-9 Some more challenge exercises image](img/Lesson-9%20Some%20more%20chalenge%20Exercise.png)
