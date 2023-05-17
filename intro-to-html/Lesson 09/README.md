@@ -1,4 +1,4 @@
-# The `<div>` Element
+# Lesson 9: The `<div>` Element
 
 In this lesson we're gonna learn about the most important HTML element i.e. the `div` element. 
 for example if you see the _HTML code of Twitter.com_ you'll see lots and lots of **divs** used in the code, Another best example is Instagram if you'll look at the _Instagram HTML_, it also uses lots and lots of **divs**.
