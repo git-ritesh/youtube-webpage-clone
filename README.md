@@ -25,3 +25,5 @@ This is the tutorial I am following for practising. Click on the Image to Open t
 [8th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%208) => Learnt about the various types of HTML elements according to display properties like _block_, _inline-block_, _inline_.
 
 [9th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2009) => Learnt about the div elements & containers.
+
+[10th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2010) => Learnt about the Nested Layouts Technique.
