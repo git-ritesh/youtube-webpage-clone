@@ -13,3 +13,11 @@ By using the combination of these two layouts, we can create any layout we see o
 ![basic layouts image](img/basic%20layouts.png)
 
 Note : Paragraph by default comes with some margin at the top and the bottom.
+
+# Exercises : 
+
+![exercise 10 image](img/Exercise-10a.png)
+
+![exercise 10 images](img/Exercise-10b-c.png)
+
+![challenge exercise 10](img/Exercise%2010%20Challenge.png)
