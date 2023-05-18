@@ -12,7 +12,7 @@ By using the combination of these two layouts, we can create any layout we see o
 
 ![basic layouts image](img/basic%20layouts.png)
 
-Note : Paragraph by default comes with some margin at the top and the bottom.
+**Note** : *Paragraph by default comes with some margin at the top and the bottom.*
 
 # Exercises : 
 
