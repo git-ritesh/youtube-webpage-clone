@@ -1,0 +1,59 @@
+.container {
+  width: 200px;
+  /* background-color: aquamarine; */
+  box-shadow: 0 2px 5px #bdbdbd;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+h2 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p {
+  color: #6b6b6b;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+h2,p,button {
+  font-family: Roboto, Helvetica, sans-serif;
+}
+
+button {
+  color: white;
+  background-color: #3e72e2;
+  border: none;
+  font-size: 15px;
+  padding: 10px 24px;
+  border-radius: 4px ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.frndprofile-container {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.frnd-profile {
+  height: 35px;
+  width: 35px;
+  border-radius: 18px;
+  margin-right: 5px;
+}
+
+.frnd-info {
+  padding-left: 10px;
+}
+
+.mutual-frnds {
+  display: inline-block;
+}
