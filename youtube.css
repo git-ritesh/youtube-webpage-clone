@@ -1,6 +1,6 @@
 .thumbnail {
         
-  width: 300px;
+  width: 100%;
   /* height: 300px; */
 
   /* object-fit: cover; */
@@ -14,7 +14,7 @@
   /* Default : */
   /* object-position: center;   */
   /* border: 2px solid red; */
-  display: block;
+  
 }
 
 p {
@@ -44,12 +44,6 @@ p {
   margin-bottom: 4px;
 }
 
-.video-preview {
-  width: 300px;
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 15px;
-}
 
 .video-info-grid {
   display: grid;  
@@ -67,3 +61,10 @@ p {
   margin-bottom: 12px;
 }
 
+/*  property for Main container Grid containing all the video previews */
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+}
