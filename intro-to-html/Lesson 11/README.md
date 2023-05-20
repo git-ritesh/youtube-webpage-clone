@@ -53,4 +53,11 @@ it's actually placed into a grid it only takes up the entire column instead
 ## `fr` 
 
 `fr` : fr is a special value in a grid that stands for free space. it means to take up the remaining
-amount of space in the page. So, that's what `1fr` means
+amount of space in the page. So, that's what `1fr` means.
+
+for e.g. if we create a `grid` layout containing three columns and create three divs in those columns and specify the size of the columns as :
+
+`grid-template-columns: 100px 1fr 2fr;` 
+![fr example image](img/fr-example.png)
+
+it will create 3 *columns* having the `width` of `100px`, `1/3` & `2/3` ***of the remaining page width*** after taking up the `100px`. so ***fr value work is sort of ratio.***
