@@ -61,3 +61,14 @@ for e.g. if we create a `grid` layout containing three columns and create three 
 ![fr example image](img/fr-example.png)
 
 it will create 3 *columns* having the `width` of `100px`, `1/3` & `2/3` ***of the remaining page width*** after taking up the `100px`. so ***fr value work is sort of ratio.***
+
+**Remember, if we have more elements than we have columns it will start wrapping around to the second row.**
+
+`column-gap: 20px;` => ***creates a gap of `20px` b/w the columns.***
+
+![column-gap example image](img/column-gap.png)
+Now ***what if we want to give space b/w the rows,*** well it's simple we have a similar & straight forward property for that i.e. 
+
+`row-gap: 40px;` => ***creates a gap of `40px` b/w the rows.***
+
+![row-gap example image](img/row-gap.png)
