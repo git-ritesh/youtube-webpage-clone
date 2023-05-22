@@ -1,0 +1,64 @@
+.thumbnail {
+        
+  width: 100%;
+  /* height: 300px; */
+
+  /* object-fit: cover; */
+  /* object-position: left; */
+  /* object-position: right; */
+  /* object-position: center; */ /* Default */ 
+  
+  /* object-fit: contain; */
+  /* object-position: top; */
+  /* object-position: bottom; */
+  /* Default : */
+  /* object-position: center;   */
+  /* border: 2px solid red; */
+  
+}
+
+
+
+
+
+.video-title {
+  margin-top: 0;
+  font-style: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  margin-bottom: 12px;
+}
+
+.video-author, .video-stats {
+  font-style: 12px;
+  color: rgb(96, 96, 96);
+}
+
+.video-author {
+  margin-bottom: 4px;
+}
+
+
+.video-info-grid {
+  display: grid;  
+  grid-template-columns: 50px 1fr;
+}
+
+.profile-picture {
+  /* width: 50px; */
+  /* width: 100%; */
+  width: 40px;
+  border-radius: 30px;
+}
+
+.thumbnail-row {
+  margin-bottom: 12px;
+}
+
+/*  property for Main container Grid containing all the video previews */
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+}
