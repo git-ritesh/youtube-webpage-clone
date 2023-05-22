@@ -1,0 +1,17 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid gray;
+  height: 50px;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-item1 {
+  background-color: lightblue;
+}
+
+.flex-item2 {
+  background-color: lightpink;
+}
