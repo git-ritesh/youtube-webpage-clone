@@ -128,3 +128,8 @@ _So, Now we learned all the things that we need & we are ready to build the head
 - when we wanna create a grid we use a grid.
 
 - and for most other situations for e.g. horizontal layout that we created using nested layout techniques we can use either flexbox or grid they do the same thing.
+
+# Exercises :
+
+![Exercise 12 image](img/exercise-12.png)
+![Exercise 12 Challenge Exercise image](img/challenge-exercise-12.png)
