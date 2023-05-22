@@ -1,0 +1,14 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  /* Below property spreads the flex-items evenly across the page */
+  justify-content: space-between;
+}
+
+.flex-item1, .flex-item3 {
+  background-color: lightblue;
+}
+
+.flex-item2, .flex-item4 {
+  background-color: lightpink;
+}
