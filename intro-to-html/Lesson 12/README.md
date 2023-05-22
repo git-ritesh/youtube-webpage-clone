@@ -116,7 +116,15 @@ Now, the last example that we're gonna go through for flexbox is how to align el
 - And we can put them in the`center` which will place them in the center which will place them vertically centered.
 
   ![align items center](img/align-items-center.png)
-  
+
 - if you'll look at the project we're gonna make all of the things in the header are vertically centered.
 
 _So, Now we learned all the things that we need & we are ready to build the header for our project._
+
+### Note :
+
+- if we focus on the content size first then we use a flexbox.
+
+- when we wanna create a grid we use a grid.
+
+- and for most other situations for e.g. horizontal layout that we created using nested layout techniques we can use either flexbox or grid they do the same thing.
