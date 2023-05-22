@@ -72,3 +72,8 @@ Now **what if we want to give space b/w the rows,** well it's simple we have a s
 `row-gap: 40px;` => _creates a gap of_ `40px` _b/w the rows._
 
 ![row-gap example image](img/row-gap.png)
+
+# Exercises : 
+
+![Exercises 11](img/exercise-11.png)
+![Challenge Exercise 11](img/challenge-exercise-11.png)
