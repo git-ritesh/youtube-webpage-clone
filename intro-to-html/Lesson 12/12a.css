@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  /* (default value is row so we don't need to specify it explicitly) */
+  /* flex-direction: row;  */
+}
+
+.item-1 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.item-2 {
+  background-color: lightpink;
+  width: 75px;
+}
