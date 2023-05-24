@@ -76,6 +76,7 @@
   align-items: center;
   justify-content: space-between;
   margin-right: 20px;
+  flex-shrink: 0;
 }
 
 .upload-icon, .yt-apps-icon, .notifications-icon {
