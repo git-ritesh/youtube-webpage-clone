@@ -6,13 +6,14 @@
   justify-content: space-between;
 }
 
-/* common properties for left and right section */
-.left-section, .right-section {
+.right-section {
   background-color: lightblue;
 }
 
 .left-section {
   width: 150px;
+  display: flex;
+  align-items: center;
 }
 
 .right-section {
@@ -25,4 +26,15 @@
   margin-left: 70px;
   margin-right: 35px;
   max-width: 500px;
+}
+
+
+.hamburger-menu {
+  height: 24px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.youtube-logo {
+  height: 20px;
 }
