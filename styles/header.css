@@ -6,10 +6,6 @@
   justify-content: space-between;
 }
 
-.right-section {
-  background-color: lightblue;
-}
-
 .left-section {
   width: 150px;
   display: flex;
@@ -76,4 +72,17 @@
 
 .right-section {
   width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+
+.upload-icon, .yt-apps-icon, .notifications-icon {
+  height: 24px;
+}
+
+.current-user-picture {
+  height: 32px;
+  border-radius: 16px;
 }
