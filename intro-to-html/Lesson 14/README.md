@@ -46,7 +46,22 @@ So, Just Like the previous lesson we're gonna create a [position.html](https://g
   
     for e.g. if we set both the `left` and `right` properties to `0px` the element will be stretched from the left to right edge of the browser window.
     Same things happens with the `top` & `bottom`.
-  
-  So this is how we move the element around & resize it with position fixed.
 
-- _Try creating header what you see in the project._
+### Note :
+
+  -  If you want the fixed element to resize with the page then use `top`, `left`, `right` & `bottom`.
+  
+  -  If you just want to have a _specific height or width_ then use `height` & `width`.
+  
+So this is how we move the element around & resize it with position fixed.
+
+### Problems with `position-fixed` 
+Now, One last problem with `position: fixed;` is that it covers the elements which comes inside it. one method to avoid this problem is to give some spacing to the element to avoid content loss.
+
+But it's not the best solution because if our content order changes then it doesn't work anymore, it covers the element again.
+
+So to properly handle this situation we need to add spacing to the body element. So, we've 2 choices to add spacing to the body using  `margin` or `padding`. 
+
+_Note: The best practice is to use padding._  
+
+_Try creating header what you see in the project._
