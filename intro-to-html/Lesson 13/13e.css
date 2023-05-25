@@ -6,16 +6,19 @@ p, h2, h3 {
   margin: 0;
 }
 
+h2 {
+  font-size: 20px;
+}
 p {
   color: rgb(125, 125, 125) ;
 }
 
 .main-container {
-  max-width: 400px;
+  max-width: 420px;
   padding: 8px 16px;
   box-shadow: 2px 2px 5px rgb(219, 219, 219),-2px -2px 5px rgb(219, 219, 219);
   margin-left: 10px;
-  margin-top: 10px;
+  margin-top: 15px;
   border-radius: 4px;
 }
 
@@ -30,14 +33,13 @@ p {
 }
 
 .flex-item1 {
-  
   display: flex;
   align-items: center;
 }
 
 .profile {
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 70px;
   border: none;
   border-radius: 40px;
 }
