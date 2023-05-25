@@ -42,9 +42,6 @@ p {
   border-radius: 40px;
 }
 
-.flex-item2 {
-  
-}
 .row {
   display: flex;
   justify-content: space-between;
