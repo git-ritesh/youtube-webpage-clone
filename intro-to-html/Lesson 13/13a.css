@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  height: 80px;
+}
+
+.flexbox {
+  background-color: lightpink;
+  width: 100px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item1 {
+  background-color: black;
+  color: white;
+}
+
+.item2 {
+  background-color: lightblue;
+  width: 200px;
+}
