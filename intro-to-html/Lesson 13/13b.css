@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  height: 56px;
+}
+
+.item1 {
+  background-color: lightpink;
+  width: 100px;
+}
+
+
+.item2 {
+  background-color: lightblue;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.row2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row3 {
+  display: flex;
+
+}
+
+.row-item1, .row-item2 {
+  background-color: black;
+  color: white;
+}
