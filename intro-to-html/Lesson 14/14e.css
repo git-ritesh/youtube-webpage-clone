@@ -1,0 +1,65 @@
+* {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+body {
+  height: 3000px;
+}
+
+.header {
+  display: flex;
+  /* background-color: lightblue; */
+  height: 50px;
+  justify-content: space-between;
+  padding: 0 100px;
+  /* Properties for making it sticky */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+}
+
+.left-section {
+  display: flex;
+  column-gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+}
+.cat-img {
+  height: 45px;
+  width: 45px;
+  border-radius: 25px;
+}
+
+.right-section {
+  display: flex;
+  column-gap: 10px;
+  justify-content: space space-between;
+  align-items: center;
+}
+
+button {
+  cursor: pointer;
+  font-weight: bold;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.addfrnd-btn {
+  background-color: #3d70d5;
+  color: white;
+  transition: background-color 0.2s ;
+}
+
+.addfrnd-btn:hover {
+  background-color: #2959ba;
+}
+
+
