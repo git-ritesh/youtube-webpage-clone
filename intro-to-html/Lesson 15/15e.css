@@ -1,0 +1,20 @@
+.cloth-container {
+  width: 300px;
+  position: relative;
+
+}
+
+.sale {
+  padding: 8px 10px;
+  background-color: black;
+  color: white;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+
+  position: absolute;
+  top: 20px;
+  right: 0;
+}
+
+img {
+  width: 100%;
+}
