@@ -1,0 +1,24 @@
+body {
+  height: 3000px;
+}
+
+.bottom-box {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+
+  width: 320px;
+  height: 180px;
+  background-color: gray;
+}
+
+.close-button {
+  font-family: Arial;
+  padding: 10px 14px;
+  position: absolute;
+  top: -13px;
+  left: -13px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+}
