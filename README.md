@@ -1,6 +1,6 @@
 # HTML-CSS_Practice
 
-I'm gonna add some of my basic practices with HTML & CSS and in the end I'll be making a Reponsive Youtube Clone Webpage.
+I'm gonna add some of my basic practices with HTML & CSS and in the end I'll be making a Responsive Youtube Clone Webpage.
 
 This is the tutorial I am following for practising. Click on the Image to Open the Tutorial!
 
