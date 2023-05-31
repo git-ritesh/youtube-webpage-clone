@@ -112,3 +112,9 @@ _Property Values of `pointer-events`_ :
 `white-space: nowrap;` : This property prevents the text from wrapping around.
 
 _So, In this Lesson we finished up our final project. we created the sidebar, resize our videos & created the tooltips & Now if we look at our design out project looks pretty much perfect & ready to go.
+
+# Exercises :
+
+![Normal Exercise Image](img/Normal-Exercise-16.png)
+
+https://raw.githubusercontent.com/git-ritesh/HTML-CSS_Practice/master/intro-to-html/Lesson%2016/img/Challenge%20Exercise-16.mp4
