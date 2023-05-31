@@ -29,6 +29,11 @@
   margin-bottom: 10px;
 }
 
+.video-title a {
+  text-decoration: none;
+  color: black;
+}
+
 .video-author, .video-stats {
   font-style: 12px;
   color: rgb(96, 96, 96);
