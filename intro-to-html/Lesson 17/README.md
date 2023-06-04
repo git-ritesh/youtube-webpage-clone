@@ -4,6 +4,8 @@ In the previous lesson we finished our final project. In this lesson we're gonna
 
 We're gonna start with Responsive Design. 
 
+## Responsive Design
+
 If we go to our reference design [here](https://supersimple.dev/exercises/youtube). You can notice that if we make the page smaller we have 2 videos in each row, if we make the page bigger we've 4 videos.
 
 At every screen size the layout adjusts so that the website looks good. So, that's the idea of **Responsive Design** making the website as good as possible for every
@@ -13,4 +15,91 @@ _So we're gonna learn how to implement Responsive Design into our project_.
 
 Now to make that Responsive we're gonna use something that's called **_Media Query_**
 
-So, To create a **Media Query** we have to type `@media()
+So, To create a **Media Query** we have to write the following syntax: 
+
+  ```css
+  @media () {
+    /* selector {
+      properties ;
+    }  */ 
+  }
+  ```
+  In the parenthesis we write the display resolution, so that when the resolution is entered the media query is triggered and the properties inside it are applied. 
+  
+  **for e.g.** 
+  ```css
+    /* Media query for width of 0 to 750px */
+  @media (max-width: 750px) {
+    .video-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  /* Media Query for width of 751px to 999px */
+  @media (min-width: 751px) and (max-width: 999px) {
+    .video-grid {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+
+  /* Media query for width of 1000px and over */
+  @media (min-width: 1000px) {
+    .video-grid {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+  ```
+
+  So, In the above code you can see we have three different **media queries** for three different screens for making the website to look good and Responsive. This is the basic of How to create a Responsive Design. We just have to write a lot of media queries.
+
+  Next thing we're gonna learn is CSS Shortcuts : 
+
+  ## CSS Shorthand properties : 
+
+  ### 1. `padding` : 
+
+  - So Instead of setting `padding` like this : 
+  
+    ```css
+      padding-left: 4px;
+      padding-right: 4px;
+      padding-top: 4px;
+      padding-bottom: 4px;
+    ```
+  - We can use a single line of code like this :
+
+    ```css
+    padding: 4px;
+    ```
+
+  - Another thing we can do is, we can give two values, 
+
+    ```css
+    padding: 4px 10px;
+    ```
+    Here, the **1st value will be the vertical padding** (`padding-top` & `padding-bottom`) & **2nd value will be the horizontal padding** (`padding-left` & `padding-right`) 
+
+  - Next thing we can do is have 4 directions : 
+  
+    ```css
+    padding: 4px 10px 20px 30px;
+    ```
+    Here, the 1st value is `padding-top`, the 2nd value is the `padding-right`, 3rd value is `padding-bottom` & last 4th value is `padding-left` if you notice its **arranged in clockwise order.** 
+
+### 2. `margin` :
+
+  **`margin` shorthand property works the same way as padding.
+
+Now we're gonna look at one final shorthand property i.e. `border`. 
+
+### 3. `border` :
+
+In, `border`  you'll notice that we always use `border-width`, `border-style` & `border-color`. So instead of setting these styles separately we can use a shorthand called `border` like showed in the following code :
+
+  ```css
+  border: 1px solid black;
+  ```
+  So, this one line of css can replace all the three. 
+  where the 1st value is the `border-width`, 2nd is the `border-style` & 3rd is the `border-color`. 
+
+  
