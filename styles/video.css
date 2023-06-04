@@ -115,6 +115,13 @@
   }
 }
 
+/* Media Query for 751px to 999px */
+@media (min-width: 751px) and (max-width: 999px) {
+  .video-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
 /* Media query for 1000px and over */
 @media (min-width: 1000px) {
   .video-grid {
