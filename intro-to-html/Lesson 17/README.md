@@ -136,4 +136,16 @@ OUTPUT :
 > **Note : Inheritance Just works with text properties like `text-decoration`, `color`, `font-weight` & `font-family`. It doesn't affect things like border, padding & margin etc.**
  for e.g. if you set a property of `border: 1px solid black;` to the parent div it'll not be passed down to the child elements of that div.
 
+> Note : According to CSS Specificity, The Specific property applied to the element is higher than the inherited from the parent element.
+
  **This can save us some code.** 
+
+ Next thing we're gonna learn is ***Semantic Elements***. 
+
+ ## Semantic Elements :
+
+ We've learned aobut the bunch of elements like `div`, `img` & the `button`. There's also another set of elements called **Semantic elements** for e.g. `header`
+ is a semantic element, another e.g. is the `nav` element. These elements works the same way as the `div` except they have a special meaning to (screen readers), search engines or any other kinds of device such as robots i.e. reading our webpage. So that the structure of our webpage is recognised correctly in screen readers. 
+ We should actually replace our divs with the semantic elements.
+
+      semantic elements = <div>
