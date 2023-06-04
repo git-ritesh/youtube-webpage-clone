@@ -149,3 +149,18 @@ OUTPUT :
  We should actually replace our divs with the semantic elements.
 
       semantic elements = <div>
+
+# Techniques we Learned :
+1. Nested Layouts Technique
+2. Display: block/inline-block;
+3. Grid
+4. Flexbox
+5. Position
+
+# Exercises : 
+
+![Exercise image](img/Exercise%2017%20Part1.png)
+
+![Exercise image](img/Exercise%2017%20Part2.png)
+
+![Exercise image](img/Challenge%20Exercise%2017.png)
