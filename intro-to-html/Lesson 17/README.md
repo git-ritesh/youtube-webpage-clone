@@ -102,4 +102,38 @@ In, `border`  you'll notice that we always use `border-width`, `border-style` & 
   So, this one line of css can replace all the three. 
   where the 1st value is the `border-width`, 2nd is the `border-style` & 3rd is the `border-color`. 
 
-  
+The next thing we're gonna learn is called **inheritance**.
+
+## Inheritance 
+
+Inheritance means that for certain CSS Properties, if we set the properties on the outer elements, it will get passed down to the inner element.
+
+_for e.g. you'have created a div and inside the div you have many text and elements which contain some text. Now, if you give the property of_ `text-decoration: underline` _every text inside the div will **inherit** the property of the parent element i.e. `div` in this case._
+
+### Inheritance Illustration through an example : 
+
+HTML :
+```html
+<div>
+    <p>The Warlord</p>
+    <p>The Terminator</p>
+    <p>The Knight</p>
+    <p>The Ghost</p>
+  </div>
+```
+CSS : 
+```css
+div {
+      text-decoration: underline;
+    }
+```
+OUTPUT : 
+
+![inheritnce example img](img/inheritance-example.png)
+
+**By seeing CSS code & Output, you can notice we've given the `text-decoration: underline;` property to the parent `div` but it is _inherited_ by all the elements which contain text inside itself.**
+
+> **Note : Inheritance Just works with text properties like `text-decoration`, `color`, `font-weight` & `font-family`. It doesn't affect things like border, padding & margin etc.**
+ for e.g. if you set a property of `border: 1px solid black;` to the parent div it'll not be passed down to the child elements of that div.
+
+ **This can save us some code.** 
