@@ -108,10 +108,17 @@
   column-gap: 16px;
   row-gap: 40px;
 }
-
+/* Media query for 0 to 750px */
 @media (max-width: 750px) {
   .video-grid {
     grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Media query for 1000px and over */
+@media (min-width: 1000px) {
+  .video-grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 }
 
