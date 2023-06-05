@@ -39,3 +39,5 @@ This is the tutorial I am following for practising. Click on the Image to Open t
 [15th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2015) => Learnt about the Position Absolute & Relative Concepts.
 
 [16th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2016) => Finished the YouTube Clone. 
+
+[17th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2017) => Learnt about some more CSS Features. 
