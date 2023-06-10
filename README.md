@@ -2,7 +2,7 @@
 
 I'm gonna add some of my basic practices with HTML & CSS and in the end I'll be making a Responsive Youtube Clone Webpage.
 
-This is the tutorial I am following for practising. Click on the Image to Open the Tutorial!
+This is the tutorial I am following for practising. Click on the Image to Open the Tutorial Video !
 
 [![HTML_CSS_PRACTICE](thumbnails/course-thumbnail.jpg)](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
