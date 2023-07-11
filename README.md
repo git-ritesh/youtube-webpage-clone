@@ -9,36 +9,36 @@ This is the tutorial I am following for practising. Click on the Image to Open t
 
 # Details
 
-[1st Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%201) => Anchor tag & Button tag.
+[1st Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2001) => Anchor tag & Button tag.
 
-[2nd Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%202) => Very basic styling to Buttons.
+[2nd Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2002) => Very basic styling to Buttons.
 
-[3rd Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%203) => Used Transition, Hover & Shadow effect on Buttons.
+[3rd Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2003) => Used Transition, Hover & Shadow effect on Buttons.
 
-[4th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%204) => Learnt about CSS Box Model.
+[4th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2004) => Learnt about CSS Box Model.
 
-[5th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%205) => Learnt about text styling, text elements like span, strong, etc.
+[5th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2005) => Learnt about text styling, text elements like span, strong, etc.
 
-[6th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%206) => Learnt about the Structure of HTML, it's features & Benefits, Seperated all the styles from the HTML from previous Lessons and placed them into an External Stylesheet CSS file.
+[6th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2006) => Learnt about the Structure of HTML, it's features & Benefits, Seperated all the styles from the HTML from previous Lessons and placed them into an External Stylesheet CSS file.
 
-[7th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%207) => Learnt about the Images and its styling. we also learnt about Search Box and its Properties.
+[7th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2007) => Learnt about the Images and its styling. we also learnt about Search Box and its Properties.
 
-[8th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%208) => Learnt about the various types of HTML elements according to display properties like _block_, _inline-block_, _inline_.
+[8th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2008) => Learnt about the various types of HTML elements according to display properties like _block_, _inline-block_, _inline_.
 
-[9th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2009) => Learnt about the div elements & containers.
+[9th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20009) => Learnt about the div elements & containers.
 
-[10th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2010) => Learnt about the Nested Layouts Technique.
+[10th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20010) => Learnt about the Nested Layouts Technique.
 
-[11th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2011) => Learnt about the Grid Layout & its properties.
+[11th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20011) => Learnt about the Grid Layout & its properties.
 
-[12th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2012) => Learnt about the Flexbox & its properties.
+[12th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20012) => Learnt about the Flexbox & its properties.
 
-[13th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2013) => Learnt about the Nested Flexbox.
+[13th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20013) => Learnt about the Nested Flexbox.
 
-[14th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2014) => Learnt about the CSS Position fixed & its properties & use in making sidebars and navbars.
+[14th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20014) => Learnt about the CSS Position fixed & its properties & use in making sidebars and navbars.
 
-[15th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2015) => Learnt about the Position Absolute & Relative Concepts.
+[15th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20015) => Learnt about the Position Absolute & Relative Concepts.
 
-[16th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2016) => Finished the YouTube Clone. 
+[16th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20016) => Finished the YouTube Clone. 
 
-[17th Exercise](https://github.com/git-ritesh/HTML-CSS_Practice/tree/master/intro-to-html/Lesson%2017) => Learnt about some more CSS Features. 
+[17th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20017) => Learnt about some more CSS Features. 
