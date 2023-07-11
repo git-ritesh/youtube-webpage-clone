@@ -26,20 +26,20 @@ This is the tutorial I am following for practising. Click on the Image to Open t
 
 [8th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2008) => Learnt about the various types of HTML elements according to display properties like _block_, _inline-block_, _inline_.
 
-[9th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20009) => Learnt about the div elements & containers.
+[9th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2009) => Learnt about the div elements & containers.
 
-[10th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20010) => Learnt about the Nested Layouts Technique.
+[10th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2010) => Learnt about the Nested Layouts Technique.
 
-[11th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20011) => Learnt about the Grid Layout & its properties.
+[11th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2011) => Learnt about the Grid Layout & its properties.
 
-[12th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20012) => Learnt about the Flexbox & its properties.
+[12th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2012) => Learnt about the Flexbox & its properties.
 
-[13th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20013) => Learnt about the Nested Flexbox.
+[13th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2013) => Learnt about the Nested Flexbox.
 
-[14th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20014) => Learnt about the CSS Position fixed & its properties & use in making sidebars and navbars.
+[14th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2014) => Learnt about the CSS Position fixed & its properties & use in making sidebars and navbars.
 
-[15th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20015) => Learnt about the Position Absolute & Relative Concepts.
+[15th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2015) => Learnt about the Position Absolute & Relative Concepts.
 
-[16th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20016) => Finished the YouTube Clone. 
+[16th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2016) => Finished the YouTube Clone. 
 
-[17th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%20017) => Learnt about some more CSS Features. 
+[17th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2017) => Learnt about some more CSS Features. 
